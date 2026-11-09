@@ -24,4 +24,4 @@
 | --- | --- | --- | --- |
 | `drive_001.jpg` | Xe bị cột che khoảng 40% | Car | Vẫn nhận diện được ô tô con, theo guideline đối tượng bị che khuất nhưng đủ đặc trưng vẫn được gán nhãn. |
 | `drive_003.jpg` | Xe buýt màu trắng bên phải bị cắt một phần bởi rìa ảnh | Bus | Dù bị cắt khung, vẫn thấy rõ thân xe lớn và nhiều cửa sổ, phù hợp lớp bus.|
-| `drive_016` |Xe bị che khuất mạnh bởi bụi cây, chỉ còn thấy một phần nóc và kính xe | Car |Mặc dù đối tượng bị che khuất một phần lớn, vẫn còn đủ đặc điểm của ô tô con. Theo guideline, vật thể bị che khuất nhưng còn nhận diện được lớp thì vẫn gán nhãn. |
+| `drive_016.jpg` |Xe bị che khuất mạnh bởi bụi cây, chỉ còn thấy một phần nóc và kính xe | Car |Mặc dù đối tượng bị che khuất một phần lớn, vẫn còn đủ đặc điểm của ô tô con. Theo guideline, vật thể bị che khuất nhưng còn nhận diện được lớp thì vẫn gán nhãn. |
