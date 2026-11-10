@@ -1,7 +1,10 @@
+path: /content/Day2-Lab/dataset # Đường dẫn gốc (đã được cấu hình tự động ở cell trước)
+train: images/train            # Thư mục ảnh train
+val: images/eval               # Thư mục ảnh eval làm validation (ĐANG BỊ THIẾU)
+
+nc: 4                          # Số lượng class (ví dụ)
 names:
-  0: Car
-  1: Truck
-  2: Van
-  3: Bus
-path: .
-train: train.txt
+  0: car
+  1: truck
+  2: bus
+  3: van
